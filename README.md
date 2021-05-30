@@ -1,5 +1,7 @@
 ### Hi there 🤘
 
+My name is Hendrik Haack and I am a software engineer from Germany. I have more than 10+ years of experience working in projects as a ui/ux designer and developer.
+
 - 🧑‍💻 CEO @ advertising agency [EINSINN](https://einsinn.de)
 - 💻 I’m currently working on [drijve](https://drijve.app)
 - 👾 I use `.html`, `.css`, `.vue`, `.js` & `.php`
